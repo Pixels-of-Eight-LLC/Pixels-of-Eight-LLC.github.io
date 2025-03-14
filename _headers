@@ -1,7 +1,7 @@
 /Build/*.gz
   Content-Encoding: gzip
-  Content-Type: application/octet-stream
+  Content-Type: application/javascript
 
 /Build/*.br
   Content-Encoding: br
-  Content-Type: application/octet-stream
+  Content-Type: application/javascript
