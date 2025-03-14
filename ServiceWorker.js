@@ -1,9 +1,9 @@
 const cacheName = "Pixels of Eight LLC-Pixels of Eight LLC-0.1.0";
 const contentToCache = [
     "Build/Pixels-of-Eight-LLC-github.io.loader.js",
-    "Build/Pixels-of-Eight-LLC-github.io.framework.js.br",
-    "Build/Pixels-of-Eight-LLC-github.io.data.br",
-    "Build/Pixels-of-Eight-LLC-github.io.wasm.br",
+    "Build/Pixels-of-Eight-LLC-github.io.framework.js.gz",
+    "Build/Pixels-of-Eight-LLC-github.io.data.gz",
+    "Build/Pixels-of-Eight-LLC-github.io.wasm.gz",
     "TemplateData/style.css"
 
 ];
