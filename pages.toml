@@ -1,0 +1,9 @@
+[[headers]]
+for = "/Build/*.gz"
+  [headers.values]
+  Content-Encoding = "gzip"
+
+[[headers]]
+for = "/Build/*.br"
+  [headers.values]
+  Content-Encoding = "br"
